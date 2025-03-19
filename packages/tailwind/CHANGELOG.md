@@ -1,5 +1,11 @@
 # @react-email/tailwind
 
+## 1.1.0
+
+### Minor Changes
+
+- 08cb9c3: Extract tailwind pseudo classes to stylesheet
+
 ## 1.0.4
 
 ### Patch Changes
