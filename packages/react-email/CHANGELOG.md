@@ -1,5 +1,16 @@
 # react-email
 
+## 3.1.0
+
+### Minor Changes
+
+- b740a52: Theme switcher for email template
+
+### Patch Changes
+
+- f582ba9: update esbuild to 0.25.0
+- 28c0a99: Fix detection of files with various export patterns
+
 ## 3.0.7
 
 ### Patch Changes
